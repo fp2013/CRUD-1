@@ -97,7 +97,7 @@
                                             </div>
                                             <div class="form-group d-flex align-items-center justify-content-between mt-4 mb-0">
                                                 <a class="small" href="restorePass.php">Forgot Password?</a>
-                                                <button type="submit" class="btn btn-primary" >LOGIN</button>
+                                                <button type="submit" class="btn btn-primary" >LOGIN 1</button>
                                             </div>
                                         </form>
                                         <?php echo resultBlock($errors); ?>
